@@ -1,0 +1,30 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
+main {
+  display: flex;
+}
+img-div {
+  max-width: 1024px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+img {
+  max-width: 1024px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: aquamarine;
+}
+h1 {
+  text-align: center;
+}
+#image-div {
+  align-items: center;
+}
